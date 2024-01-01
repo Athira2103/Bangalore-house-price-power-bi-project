@@ -1,6 +1,7 @@
 # Bangalore-house-price-power-bi-project
-
 This report is useful for predicting home prices based on input features such as location, no of bedrooms, no of bathrooms, square area feet,etc.
+
+![image house](https://github.com/Athira2103/Bangalore-house-price-power-bi-project/assets/31879762/0ae88c06-760c-4280-8f10-27d778dd007a)
 
 **Dataset Name**: banglore_home_price.csv
 
